@@ -56,9 +56,21 @@ Beetle movement felt restricted moving in a sliding only fashion.
 
 Grasshoppers can make unlimited jumps.
 
+###Example
+
+![Grasshopper](/examples/grasshopper_tactics.png)
+
+Black Grasshopper wants to jump to X then Z, attacking the White Queen.
+
+If it is White's turn, White can move the White Spider to X (Spider moves 2 on the Hive, 1 off).
+
+After this block, the Black Grasshopper can only land on Y.
+
 ###Why?
 
 Grasshopper is a cool piece but lacking mobility. They are now tremendously mobile but given the right counter deployment, their movement patterns can be blocked by placing or moving a piece just such that the Grasshopper cannot land where they need to.
+
+
 
 ##Spider
 
